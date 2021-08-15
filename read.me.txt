@@ -1,0 +1,24 @@
+Teknologi personalisasi informasi bencanana berbasis AR
+Viktorits
+kategori : Digital Solution AR
+
+
+Deskripsi: kami menginisasi penggunaan data-driven untuk perosnalisasi informasi (wabah, gempa dan banjir) kepada user dengan
+menggunakan social media dan informasi yang dimonitoring oleh robot uipath dan ditampilkan notifikasi dan 
+action berupa node tempat yang harus dikunjungi berdasar standar atau SOP yang berlaku
+
+Tools : intellij, androidstudio,uipath, Mvisualstudio, unity, ARcore, uipath studio, Rstudio
+bahasa pemrograman : java, php,js(web, android) python, r dan .net(automasi robot dan dashboard)
+algoritma AI : Fuzzy logic type 2
+
+php versi 5
+sdk android 25
+deploy harus windows server
+
+video :https://youtu.be/setALN0JIAY
+contoh apk :https://drive.google.com/drive/folders/1-Z3IM5qHh8Kam2SZ7gZ496EOXMNH_Nj-?usp=sharing
+poster :https://drive.google.com/drive/folders/1iY50qchMAOdyIftnGL0VBKfy_Kcj_Hf1?usp=sharing
+vlog: https://drive.google.com/drive/folders/1EjW-aQTDVhP-5M7Uv4WrE8TmSCbiDw1I?usp=sharing
+
+user :admin
+pass :admin
